@@ -1,16 +1,12 @@
 # house_rent_app
 
-A new Flutter project.
+Clean Architecture (Basic)
+GetX (Basic)
+Good at Flutter UI
 
-## Getting Started
+![Screenshot 2024-12-24 013659](https://github.com/user-attachments/assets/9759bb12-afbf-4987-9a04-539d9bcaa9ec)
+![Screenshot 2024-12-24 013709](https://github.com/user-attachments/assets/c2330a0e-a93f-4b3d-b58c-666156fd015b)
+![Screenshot 2024-12-24 013734](https://github.com/user-attachments/assets/87fb2559-e809-4dba-a40a-d2b71fabae55)
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/7b7b05de-d51c-4fc8-b102-e718bc5a024b
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
